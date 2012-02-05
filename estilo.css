@@ -1,0 +1,35 @@
+body {
+  background: #4927ff; 
+  width: 900px;
+  margin: 0 auto;
+  color: #000000;
+}
+a:link {
+  color: #0000EE;
+}
+a:visited {
+  color: #990066;
+}
+a:hover, a:active, a:focus {
+  color: #FF0000;
+}
+#header{
+  background: black;  
+  height: 250px; 
+  display: block;
+  clear: both;
+}
+#header h1{
+  color: #fff; 
+  margin: 0;
+}
+#contenido {
+  height: 600px; 
+  background: white; 
+  display: block;
+  } 
+#footer {
+  height: 200px; 
+  background: black; 
+  display: block;
+}
